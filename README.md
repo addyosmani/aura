@@ -1,4 +1,4 @@
-aura
+Aura
 ====
 
-A scalable, event-driven JavaScript architecture for developing widget-based applications. Works with Backbone.js and other frameworks.
+We've moved to an org! Please visit us at [https://github.com/aurajs](https://github.com/aurajs)
